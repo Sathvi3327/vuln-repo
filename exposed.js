@@ -8,10 +8,12 @@ Secret access key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
 const USERNAME = 'Attacker';
 const PASSWORD = 'I@mAttack1ng#273';
+const EMAIL_ID = 'attacker@testing.com';
 
 const CREDENTIALS = {
     username: USERNAME,
-    password: PASSWORD
+    password: PASSWORD,
+    email: EMAIL_ID
 } 
 
 const headers = {
